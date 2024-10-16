@@ -1,1 +1,1 @@
-<h1>Hello from Laravel</h1>
+<h1>Hello from Dotinstall</h1>
